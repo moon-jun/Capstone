@@ -6,3 +6,11 @@
 
 # 기술스택
 javascript , Git , node.js
+
+![image](https://user-images.githubusercontent.com/84641360/204563157-ef5009a8-fb32-4715-8372-f9d92ee50eab.png)
+
+![image](https://user-images.githubusercontent.com/84641360/204563262-c270125d-bf7a-46eb-9025-1c905fb3eecc.png)
+
+![image](https://user-images.githubusercontent.com/84641360/204563325-d85e7220-df57-4f21-9305-e78e6f03de67.png)
+
+![image](https://user-images.githubusercontent.com/84641360/204563421-a0e04b55-cf22-47ee-ad9d-cebd84f67271.png)
